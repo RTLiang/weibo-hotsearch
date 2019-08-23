@@ -1,3 +1,3 @@
 # -
 BeautifulSoup爬虫
-在运行前安装BeautifulSoup（使用pip）
+在运行前安装BeautifulSoup4（使用pip）
